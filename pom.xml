@@ -13,7 +13,7 @@
                   <profile>
                            <id>sonar </id>
                            <properties>
-                                    <snoar.host.url>
+                                    <sonar.host.url>
                                              http://localhost:9000
                                              </sonar.host.url>
                            </properties>
